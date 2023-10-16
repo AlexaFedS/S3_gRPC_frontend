@@ -1,0 +1,14 @@
+@tailwind components;
+@tailwind utilities;
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    width: 100vw;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+* {
+    box-sizing: border-box;
+}
